@@ -3,3 +3,5 @@ I study CSE
 Completed HSC in 2017
 BSC info
 completing my Bsc
+
+this new changes are made on feature2
